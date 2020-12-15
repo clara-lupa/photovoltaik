@@ -25,7 +25,7 @@ SECRET_KEY = 'w_^g+e%dja1mwr+c6f_8-^wm8!12kpo(eu4w0+68%k&8v5$-o^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cw-photovoltaik.herokuapp.com']
 
 
 # Application definition
