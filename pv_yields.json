@@ -1,0 +1,114 @@
+[
+{
+  "model": "yields.pvyield",
+  "pk": "bw",
+  "fields": {
+    "spec_yield": 1140
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "be",
+  "fields": {
+    "spec_yield": 1060
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "bb",
+  "fields": {
+    "spec_yield": 1080
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "hb",
+  "fields": {
+    "spec_yield": 990
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "ni",
+  "fields": {
+    "spec_yield": 1020
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "sh",
+  "fields": {
+    "spec_yield": 980
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "hh",
+  "fields": {
+    "spec_yield": 990
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "mv",
+  "fields": {
+    "spec_yield": 1030
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "st",
+  "fields": {
+    "spec_yield": 1080
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "sn",
+  "fields": {
+    "spec_yield": 1110
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "th",
+  "fields": {
+    "spec_yield": 1090
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "nw",
+  "fields": {
+    "spec_yield": 1030
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "he",
+  "fields": {
+    "spec_yield": 1060
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "rp",
+  "fields": {
+    "spec_yield": 1100
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "sl",
+  "fields": {
+    "spec_yield": 1100
+  }
+},
+{
+  "model": "yields.pvyield",
+  "pk": "by",
+  "fields": {
+    "spec_yield": 1140
+  }
+}
+]
