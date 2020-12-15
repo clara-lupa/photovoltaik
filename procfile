@@ -1,1 +1,0 @@
-web: gunicorn photovoltaik.wsgi --log-file -
