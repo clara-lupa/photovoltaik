@@ -1,1 +1,1 @@
-web: gunicornphotovoltaik.wsgi --log-file -
+web: gunicorn photovoltaik.wsgi --log-file -
