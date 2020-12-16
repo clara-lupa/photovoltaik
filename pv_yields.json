@@ -3,112 +3,129 @@
   "model": "yields.pvyield",
   "pk": "bw",
   "fields": {
-    "spec_yield": 1140
+    "spec_yield": 1140,
+    "full_name": "Baden-Württemberg"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "be",
   "fields": {
-    "spec_yield": 1060
+    "spec_yield": 1060,
+    "full_name": "Berlin"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "bb",
   "fields": {
-    "spec_yield": 1080
+    "spec_yield": 1080,
+    "full_name": "Brandenburg"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "hb",
   "fields": {
-    "spec_yield": 990
+    "spec_yield": 990,
+    "full_name": "Bremen"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "ni",
   "fields": {
-    "spec_yield": 1020
+    "spec_yield": 1020,
+    "full_name": "Niedersachsen"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "sh",
   "fields": {
-    "spec_yield": 980
+    "spec_yield": 980,
+    "full_name": "Schleswig-Holstein"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "hh",
   "fields": {
-    "spec_yield": 990
+    "spec_yield": 990,
+    "full_name": "Hamburg"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "mv",
   "fields": {
-    "spec_yield": 1030
+    "spec_yield": 1030,
+    "full_name": "Mecklenburg-Vorpommern"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "st",
   "fields": {
-    "spec_yield": 1080
+    "spec_yield": 1080,
+    "full_name": "Sachsen-Anhalt"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "sn",
   "fields": {
-    "spec_yield": 1110
+    "spec_yield": 1110,
+    "full_name": "Sachsen"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "th",
   "fields": {
-    "spec_yield": 1090
+    "spec_yield": 1090,
+    "full_name": "Thüringen"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "nw",
   "fields": {
-    "spec_yield": 1030
+    "spec_yield": 1030,
+    "full_name": "Nordrhein-Westfalen"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "he",
   "fields": {
-    "spec_yield": 1060
+    "spec_yield": 1060,
+    "full_name": "Hessen"
+
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "rp",
   "fields": {
-    "spec_yield": 1100
+    "spec_yield": 1100,
+    "full_name": "Rheinland-Pfalz"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "sl",
   "fields": {
-    "spec_yield": 1100
+    "spec_yield": 1100,
+    "full_name": "Saarland"
   }
 },
 {
   "model": "yields.pvyield",
   "pk": "by",
   "fields": {
-    "spec_yield": 1140
+    "spec_yield": 1140,
+    "full_name": "Bayern"
   }
 }
 ]
