@@ -14,8 +14,8 @@ class PvYieldViewSet(viewsets.ReadOnlyModelViewSet):
         if "state" in request.query_params.keys():
             try:
                 pv_yield = PvYield.objects.get(state=request.query_params['state'])
-                serializer = PvYieldSerializer(pv_yield)
-                return JsonResponse(serializer.data, safe=False)
+                response = {"yield": pv_yield.spec_yield, "state": pv_yield.state}
+                return JsonResponse(response)
             except:
                 err = {"error_message": "the state code you entered does not exist"}
                 return JsonResponse(err)
