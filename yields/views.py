@@ -23,12 +23,11 @@ class PvYieldViewSet(viewsets.ReadOnlyModelViewSet):
         elif {"plz", "capacity"} <= request.query_params.keys():
             import geocoder
             geocoder_query = "{}, Germany".format(request.query_params['plz'])
-            state_full = geocoder.osm(geocoder_query).osm['addr:state']
             try:
+                state_full = geocoder.osm(geocoder_query).osm['addr:state']
                 pv_yield = PvYield.objects.get(state_full=state_full)
             except:
-                err =  {"error_message": "the plz you entered does not exist",
-                    "state_full": state_full}
+                err =  {"error_message": "the plz you entered does not exist"}
                 return JsonResponse(err)
             system_yield = int(request.query_params['capacity']) * int(pv_yield.spec_yield)
             response = {'yield': system_yield, 'state': pv_yield.state}
