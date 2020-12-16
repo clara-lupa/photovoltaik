@@ -4,7 +4,7 @@
   "pk": "bw",
   "fields": {
     "spec_yield": 1140,
-    "full_name": "Baden-Württemberg"
+    "state_full": "Baden-Württemberg"
   }
 },
 {
@@ -12,7 +12,7 @@
   "pk": "be",
   "fields": {
     "spec_yield": 1060,
-    "full_name": "Berlin"
+    "state_full": "Berlin"
   }
 },
 {
@@ -20,7 +20,7 @@
   "pk": "bb",
   "fields": {
     "spec_yield": 1080,
-    "full_name": "Brandenburg"
+    "state_full": "Brandenburg"
   }
 },
 {
@@ -28,7 +28,7 @@
   "pk": "hb",
   "fields": {
     "spec_yield": 990,
-    "full_name": "Bremen"
+    "state_full": "Bremen"
   }
 },
 {
@@ -36,7 +36,7 @@
   "pk": "ni",
   "fields": {
     "spec_yield": 1020,
-    "full_name": "Niedersachsen"
+    "state_full": "Niedersachsen"
   }
 },
 {
@@ -44,7 +44,7 @@
   "pk": "sh",
   "fields": {
     "spec_yield": 980,
-    "full_name": "Schleswig-Holstein"
+    "state_full": "Schleswig-Holstein"
   }
 },
 {
@@ -52,7 +52,7 @@
   "pk": "hh",
   "fields": {
     "spec_yield": 990,
-    "full_name": "Hamburg"
+    "state_full": "Hamburg"
   }
 },
 {
@@ -60,7 +60,7 @@
   "pk": "mv",
   "fields": {
     "spec_yield": 1030,
-    "full_name": "Mecklenburg-Vorpommern"
+    "state_full": "Mecklenburg-Vorpommern"
   }
 },
 {
@@ -68,7 +68,7 @@
   "pk": "st",
   "fields": {
     "spec_yield": 1080,
-    "full_name": "Sachsen-Anhalt"
+    "state_full": "Sachsen-Anhalt"
   }
 },
 {
@@ -76,7 +76,7 @@
   "pk": "sn",
   "fields": {
     "spec_yield": 1110,
-    "full_name": "Sachsen"
+    "state_full": "Sachsen"
   }
 },
 {
@@ -84,7 +84,7 @@
   "pk": "th",
   "fields": {
     "spec_yield": 1090,
-    "full_name": "Thüringen"
+    "state_full": "Thüringen"
   }
 },
 {
@@ -92,7 +92,7 @@
   "pk": "nw",
   "fields": {
     "spec_yield": 1030,
-    "full_name": "Nordrhein-Westfalen"
+    "state_full": "Nordrhein-Westfalen"
   }
 },
 {
@@ -100,7 +100,7 @@
   "pk": "he",
   "fields": {
     "spec_yield": 1060,
-    "full_name": "Hessen"
+    "state_full": "Hessen"
 
   }
 },
@@ -109,7 +109,7 @@
   "pk": "rp",
   "fields": {
     "spec_yield": 1100,
-    "full_name": "Rheinland-Pfalz"
+    "state_full": "Rheinland-Pfalz"
   }
 },
 {
@@ -117,7 +117,7 @@
   "pk": "sl",
   "fields": {
     "spec_yield": 1100,
-    "full_name": "Saarland"
+    "state_full": "Saarland"
   }
 },
 {
@@ -125,7 +125,7 @@
   "pk": "by",
   "fields": {
     "spec_yield": 1140,
-    "full_name": "Bayern"
+    "state_full": "Bayern"
   }
 }
 ]

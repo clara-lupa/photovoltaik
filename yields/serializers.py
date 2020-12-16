@@ -4,4 +4,4 @@ from yields.models import PvYield
 class PvYieldSerializer(serializers.ModelSerializer):
     class Meta:
         model = PvYield
-        fields = ['state', 'spec_yield']
+        fields = ['state', 'spec_yield', 'state_full']
