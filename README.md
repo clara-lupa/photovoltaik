@@ -5,7 +5,7 @@ Photovoltaik is a read-only web API that provides reference data on specific ene
 ## Prerequisites
 - Python3
 
-## Install Photovoltaik
+## Installing Photovoltaik
 Start with cloning this repository and chancge to the project directory:
 ```sh 
 $ git clone https://github.com/clara-lupa/photovoltaik.git
