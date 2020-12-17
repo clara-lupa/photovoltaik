@@ -3,9 +3,9 @@
 Photovoltaik is a read-only web API that provides reference data on specific energy yields of photovoltaik systems in Germany depending on their location and capacity. Thereby it enables photovoltaik operators to compare the generated energy yields with the expected yields for their PV system.
 
 ## Prerequisites
-- Python3 should be installed.
+- Python3
 
-## Install
+## Install Photovoltaik
 Start with cloning this repository and chancge to the project directory:
 ```sh 
 $ git clone https://github.com/clara-lupa/photovoltaik.git
@@ -47,7 +47,7 @@ Navigate to `http://localhost:8000/api/pv_yields?state=by` using a browser, the 
 ```
 For further details on how to use the app see the next section and use `http://localhost:8000` as `<Base_URL>`!
 
-## Usage
+## Using Photovoltaik
 
 You can either by installing the API on your local machine (following the instructions from the previous section and use `http://localhost:8000` as `<Base_URL>`) or you can access an already deployed version, using `https://cw-photovoltaik.herokuapp.com` as `<BASE_URL>`.
 
@@ -83,4 +83,4 @@ The response will be a json, containing the systems yield in kWh/year for the gi
 
 
 ## License
-This software uses GNU General Public License
+GNU General Public License
