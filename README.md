@@ -82,5 +82,5 @@ The response will be a json, containing the systems yield in kWh/year for the gi
 ```
 
 
-# License
+## License
 This software uses GNU General Public License
